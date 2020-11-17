@@ -1,6 +1,6 @@
-# Crawl Tiki
+# Crawl Ananas
 
-Get product data from Tiki.vn
+Get product data from Ananas.vn
 
 ## Installation
 
